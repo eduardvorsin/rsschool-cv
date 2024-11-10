@@ -157,7 +157,7 @@ export default function Button({
 ## Education
 - **Bachelors**, Mechanics and Robotics at Karaganda Buketov University, 2020-2024
 - **Masters**, Information systems and technologies, 2024-2026(in progress)
-
+- **[Developing Front-End Apps with React](https://coursera.org/share/918177aff7d748800e2900284c57e849)** on [Coursera](https://www.coursera.org/), 2023
 ## Experience
 - **Teacher of the React course** at [Almaty IT Step](https://almaty.itstep.org/), Sep 1-24 - present
 
